@@ -4,7 +4,6 @@ Here is a [link with the discount](https://www.udemy.com/course/chatbot-for-webs
 
 To run in locally install packes.
 
-```export REACT_APP_GOOGLE_PROJECT_ID="insert google project id"```
+`export REACT_APP_GOOGLE_PROJECT_ID="insert google project id"`
 
-
-```export REACT_APP_DF_SESSION_ID="insert dialogflow session"```
+`export REACT_APP_DF_SESSION_ID="insert dialogflow session"`
