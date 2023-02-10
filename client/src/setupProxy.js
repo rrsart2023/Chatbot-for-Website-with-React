@@ -1,7 +1,5 @@
-const proxy = require('http-proxy-middleware');
+const proxy = require("http-proxy-middleware");
 
-
-module.exports = function(app) {
-    app.use(proxy('/api', { target: 'https://chatbot-react-test.onrender.com' }));
-
+module.exports = function (app) {
+  app.use(proxy("/api", { target: "https://chatbot-react-test.onrender.com" }));
 };
