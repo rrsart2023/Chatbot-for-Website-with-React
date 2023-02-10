@@ -1,0 +1,24 @@
+{
+  "files": {
+    "main.js": "./static/js/main.05dbc1fa.chunk.js",
+    "main.js.map": "./static/js/main.05dbc1fa.chunk.js.map",
+    "runtime-main.js": "./static/js/runtime-main.95d10083.js",
+    "runtime-main.js.map": "./static/js/runtime-main.95d10083.js.map",
+    "static/css/2.81362db1.chunk.css": "./static/css/2.81362db1.chunk.css",
+    "static/js/2.a0e01e38.chunk.js": "./static/js/2.a0e01e38.chunk.js",
+    "static/js/2.a0e01e38.chunk.js.map": "./static/js/2.a0e01e38.chunk.js.map",
+    "index.html": "./index.html",
+    "precache-manifest.a9ad97468b772d5533e044c3e6bafd2a.js": "./precache-manifest.a9ad97468b772d5533e044c3e6bafd2a.js",
+    "service-worker.js": "./service-worker.js",
+    "static/css/2.81362db1.chunk.css.map": "./static/css/2.81362db1.chunk.css.map",
+    "static/js/2.a0e01e38.chunk.js.LICENSE.txt": "./static/js/2.a0e01e38.chunk.js.LICENSE.txt",
+    "static/js/main.05dbc1fa.chunk.js.LICENSE.txt": "./static/js/main.05dbc1fa.chunk.js.LICENSE.txt",
+    "static/media/index.css": "./static/media/public-sans-vietnamese-400-normal.204e6804.woff2"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.95d10083.js",
+    "static/css/2.81362db1.chunk.css",
+    "static/js/2.a0e01e38.chunk.js",
+    "static/js/main.05dbc1fa.chunk.js"
+  ]
+}
