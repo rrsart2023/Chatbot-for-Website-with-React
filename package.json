@@ -17,13 +17,22 @@
   "author": "",
   "license": "ISC",
   "dependencies": {
+    "@emotion/react": "^11.10.5",
+    "@emotion/styled": "^11.10.5",
+    "@fontsource/public-sans": "^4.5.12",
+    "@fontsource/roboto": "^4.5.8",
+    "@mui/icons-material": "^5.11.0",
+    "@mui/joy": "^5.0.0-alpha.64",
+    "@mui/material": "^5.11.6",
+    "@mui/styled-engine-sc": "^5.11.0",
     "actions-on-google": "^2.12.0",
     "body-parser": "^1.19.0",
     "dialogflow": "^0.13.0",
     "dialogflow-fulfillment": "^0.6.1",
     "express": "^4.17.1",
     "google-oauth-jwt": "^0.2.0",
-    "mongoose": "^5.7.8"
+    "mongoose": "^5.7.8",
+    "styled-components": "^5.3.6"
   },
   "devDependencies": {
     "concurrently": "^5.0.0",

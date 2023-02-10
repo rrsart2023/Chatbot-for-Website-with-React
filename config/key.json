@@ -1,0 +1,12 @@
+{
+    "type": "service_account",
+    "project_id": "reactpageagenthostel-xgjh",
+    "private_key_id": "197fe67ceb9de4298a077a97587893c9c9dc1b91",
+    "private_key": "-----BEGIN PRIVATE KEY-----\nMIIEvgIBADANBgkqhkiG9w0BAQEFAASCBKgwggSkAgEAAoIBAQCyjhAI7/SDpTA/\nVxzJV2RcqKsOj0aM3Hcg4ktlU6PUHLDSDviANkdtVcaDFb2roayOnP4WdbdB9XkZ\nUj2OMILhXTW+nXb4oScWeo9tVM2u32V1rribRDTF2wiilU4Y1Trsemo9MxaiV+21\nJ1WhiCn8o48agIFqt/DhKjbpQ1ZNJ/YFHIO6bkIACVqC4L1TyT02yneFH4NDpkVF\n1hTYNbMManLRoydobhRJfE85jToPMS8VC73fuyjX28VjQo+zSmfM5b40La+Imi0x\n50Se4m6mcZHFrq/2EdunkkqKu2MBwrCL2bZdlPEmNWpU4hJy5FzJnxT3ok4xdFHG\nM4AhhlMhAgMBAAECggEAAPM7G0d33SbvaFKcR1ZDYOulHNeWd4TAztyWeOtb4oxU\nRM826uc0XweRwB5JCAZOJcJCXoko41kHx1XZKZrd8hcN4lvYi8E2tQiDqBFYdHGy\naJUJXPmdEkaWs1/X4a1Huh8UXtfuavfuz66QPAUTzS98jevhiK61fToKFFzhbuHu\nApc7nXrsC95yFUTZFOmETSRDTpiukaLvk74j/W4O2YDY9Ppkiq4bTshQ3AVitzIl\n06kHz+TaCmc61wlUFhysTx0+7WNKSa+StPcpgetmf8C+6saF2wpWbGVvEqKuesTF\nW5lKucJQKvB3IN8/xUrp59dPh96omlkVJmzjhypAFQKBgQDedskj8pDS4PHHt98t\nm8hTDEVRS10ob4Z72CGv/VLnc60u78M4X2r6z5gPoVcugGqpilBJdLnn60OzBQEH\nl8Icpe88DUOYLPghZqcwmxWtVZS4oM8lnokt0ewx0bjVSC1SZF2nWCr/YqmaCGBC\nWbXTuLbROUFYwsztUKS4s2EcWwKBgQDNeMLNz38iMijiVSmhOCCE91ssQCEgTvtq\nSEcdFUitSGh1Y8u7Wd9ukIh0/AN9HB0ghqDT546KJUM6jCKPnUyrnsx8/RuP3Qgv\n6DhwZpPTT46wriqwGdOn3Rgr9ClstAQruGfN8Z0wOG/q6y8TFvdubXBifeKLeXSe\nngz6YpyXMwKBgQCeho0MpbSX4R3J0PgjewhETdEzff3Ta62soLZYv68NKbw2XzqA\n+FW2hqn4MWN7ypy3Vc2imqBDaL3kWuOB8p2rZn9VDqqlTR5ARvNKyqimzP5elpEm\nYJOmaBnk4mrQ6U8KkGTAdC6nsDnlfqSBg4XzaoQ0EZXEV4RKdBX9XC4OUwKBgQCi\nreoOaSqPOIeGK0c6jeWxYOaesmeH3QDRtUgYjrFsANgzmT/EpfNw5p4jgSSB+bBW\nAEF1hPAmEDqaMDls223Is4HTs9IOpUHGLGYDGDQSKfsfh8Xkh448aaCprDbgCecD\ndo05UQLTGtwBcxNiWdytYZiJYoHrS845h4le9JRmYQKBgDNIFfUDBDWoqAW9SMFL\nLW1DLAu5g6uKws9mMLOBie73gIRHkOcMvPMxjk+UaUv7Zaeuk4u1PDbRt19Ci8pk\nL2IX3boj4AO6TLVhjvBujlt7ZedJxxa1SnYniU7tp2V/DcKinDKIBf7xemxaI6W7\n46t7Us+ttu1Isxp1+yXt1HHC\n-----END PRIVATE KEY-----\n",
+    "client_email": "dialogflow-client@reactpageagenthostel-xgjh.iam.gserviceaccount.com",
+    "client_id": "111530066477161682751",
+    "auth_uri": "https://accounts.google.com/o/oauth2/auth",
+    "token_uri": "https://oauth2.googleapis.com/token",
+    "auth_provider_x509_cert_url": "https://www.googleapis.com/oauth2/v1/certs",
+    "client_x509_cert_url": "https://www.googleapis.com/robot/v1/metadata/x509/dialogflow-client%40reactpageagenthostel-xgjh.iam.gserviceaccount.com"
+  }
