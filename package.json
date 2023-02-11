@@ -34,6 +34,8 @@
     "express": "^4.17.1",
     "google-oauth-jwt": "^0.2.0",
     "mongoose": "^5.7.8",
+    "node-fetch": "^3.3.0",
+    "request-promise-native": "^1.0.9",
     "styled-components": "^5.3.6"
   },
   "devDependencies": {
