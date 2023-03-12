@@ -3,7 +3,7 @@ const bodyParser = require('body-parser');
 
 const app = express();
 
-const config = require('./config/key.json');
+const config = require('./config/keys.js');
 const mongoose = require('mongoose');
 mongoose.connect(config.mongoURI, { useNewUrlParser: true, useUnifiedTopology: true });
 
