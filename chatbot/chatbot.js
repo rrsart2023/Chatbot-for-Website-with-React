@@ -1,7 +1,7 @@
 'use strict';
 const dialogflow = require('dialogflow');
 const structjson = require('./structjson.js');
-const config = require('./config/key.json');
+const config = require('./config/keys.js');
 const mongoose = require('mongoose');
 
 const googleAuth = require('google-oauth-jwt');
