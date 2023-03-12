@@ -1,9 +1,9 @@
 const express = require('express');
 const bodyParser = require('body-parser');
-
+const cors =  require("cors")
 const app = express();
-
-const config = require('./config/keys.js');
+const dotenv =  require("dotenv")
+const config = require('./config/key.env');
 const mongoose = require('mongoose');
 mongoose.connect(config.mongoURI, { useNewUrlParser: true, useUnifiedTopology: true });
 
@@ -11,7 +11,8 @@ require('./models/Registration');
 require('./models/Demand');
 require('./models/Coupons');
 
-
+dotenv.config();
+app.use(cors());
 app.use(bodyParser.json());
 
 require('./routes/dialogFlowRoutes')(app);
